@@ -1,4 +1,4 @@
-package homePractice;
+package homePractice.Practice;
 
 public class hp_17_How_Many_Wovels {
     public static void main(String[] args) {

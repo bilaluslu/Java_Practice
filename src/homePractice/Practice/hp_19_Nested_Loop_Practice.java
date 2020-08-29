@@ -1,4 +1,4 @@
-package homePractice;
+package homePractice.Practice;
 
 public class hp_19_Nested_Loop_Practice {
     public static void main(String[] args) {

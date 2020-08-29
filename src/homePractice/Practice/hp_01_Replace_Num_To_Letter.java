@@ -1,4 +1,4 @@
-package homePractice;
+package homePractice.Practice;
 
 public class hp_01_Replace_Num_To_Letter {
     public static void main(String[] args) {

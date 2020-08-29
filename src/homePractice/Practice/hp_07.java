@@ -1,4 +1,4 @@
-package homePractice;
+package homePractice.Practice;
 
 import java.util.Locale;
 import java.util.Scanner;

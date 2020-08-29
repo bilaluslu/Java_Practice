@@ -1,4 +1,4 @@
-package homePractice;
+package homePractice.Practice;
 
 public class deneme {
     public static void main(String[] args) {

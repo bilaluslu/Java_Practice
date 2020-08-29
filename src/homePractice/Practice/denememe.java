@@ -1,4 +1,4 @@
-package homePractice;
+package homePractice.Practice;
 
 // Java program to demonstrate encapsulation
 class Encapsulate {

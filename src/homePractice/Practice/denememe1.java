@@ -1,4 +1,4 @@
-package homePractice;
+package homePractice.Practice;
 //Encapsulation:
 //Encapsulation is one of the fundamental concepts in object-oriented
 // programming (OOP).

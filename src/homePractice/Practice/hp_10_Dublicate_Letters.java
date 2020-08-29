@@ -1,4 +1,4 @@
-package homePractice;
+package homePractice.Practice;
 
 public class hp_10_Dublicate_Letters {
     public static void main(String[] args) {
